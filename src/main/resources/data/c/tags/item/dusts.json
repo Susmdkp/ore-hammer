@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "orehammer_recreated:raw_iron_dust",
+    "orehammer_recreated:raw_gold_dust",
+    "orehammer_recreated:raw_copper_dust",
+    "orehammer_recreated:raw_silver_dust",
+    "orehammer_recreated:raw_zinc_dust",
+    "orehammer_recreated:raw_tin_dust"
+  ]
+}

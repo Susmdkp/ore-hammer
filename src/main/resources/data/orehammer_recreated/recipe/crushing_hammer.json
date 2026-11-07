@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "CIC",
+    " S ",
+    " N "
+  ],
+  "key": {
+    "C": "minecraft:copper_block",
+    "I": "minecraft:iron_block",
+    "S": "minecraft:stick",
+    "N": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "orehammer_recreated:crushing_hammer",
+    "count": 1
+  }
+}

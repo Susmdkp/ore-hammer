@@ -1,0 +1,18 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create"
+      ]
+    }
+  ],
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": "orehammer_recreated:raw_zinc_dust",
+  "result": {
+    "id": "create:zinc_ingot"
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}

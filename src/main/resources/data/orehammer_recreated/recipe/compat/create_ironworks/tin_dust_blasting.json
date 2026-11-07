@@ -1,0 +1,18 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create_ironworks"
+      ]
+    }
+  ],
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": "orehammer_recreated:raw_tin_dust",
+  "result": {
+    "id": "create_ironworks:tin_ingot"
+  },
+  "experience": 0.4,
+  "cookingtime": 100
+}

@@ -1,0 +1,18 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create_more_additions"
+      ]
+    }
+  ],
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": "orehammer_recreated:raw_silver_dust",
+  "result": {
+    "id": "create_more_additions:silver_ingot"
+  },
+  "experience": 0.4,
+  "cookingtime": 100
+}

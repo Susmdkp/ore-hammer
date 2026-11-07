@@ -1,0 +1,8 @@
+{
+  "type": "orehammer_recreated:crushing",
+  "ingredients": [
+    "minecraft:deepslate_diamond_ore"
+  ],
+  "result": "minecraft:diamond",
+  "count": 2
+}

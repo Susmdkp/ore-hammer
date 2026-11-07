@@ -1,0 +1,8 @@
+{
+  "type": "orehammer_recreated:crushing",
+  "ingredients": [
+    "minecraft:deepslate_gold_ore"
+  ],
+  "result": "orehammer_recreated:raw_gold_dust",
+  "count": 4
+}
