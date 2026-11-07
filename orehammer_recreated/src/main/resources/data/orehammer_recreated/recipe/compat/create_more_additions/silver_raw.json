@@ -1,0 +1,16 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create_more_additions"
+      ]
+    }
+  ],
+  "type": "orehammer_recreated:crushing",
+  "ingredients": [
+    "create_more_additions:raw_silver"
+  ],
+  "result": "orehammer_recreated:raw_silver_dust",
+  "count": 2
+}

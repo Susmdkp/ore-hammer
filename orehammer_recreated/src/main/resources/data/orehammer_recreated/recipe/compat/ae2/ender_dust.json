@@ -1,0 +1,16 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "ae2"
+      ]
+    }
+  ],
+  "type": "orehammer_recreated:crushing",
+  "ingredients": [
+    "#c:ender_pearls"
+  ],
+  "result": "ae2:ender_dust",
+  "count": 2
+}

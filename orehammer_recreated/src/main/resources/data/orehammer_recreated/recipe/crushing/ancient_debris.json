@@ -1,0 +1,10 @@
+{
+  "type": "orehammer_recreated:crushing",
+  "ordered": true,
+  "ingredients": [
+    "minecraft:ancient_debris",
+    "minecraft:blaze_powder"
+  ],
+  "result": "minecraft:netherite_scrap",
+  "count": 2
+}

@@ -1,0 +1,8 @@
+{
+  "type": "orehammer_recreated:crushing",
+  "ingredients": [
+    "minecraft:emerald_ore"
+  ],
+  "result": "minecraft:emerald",
+  "count": 2
+}

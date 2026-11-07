@@ -1,0 +1,16 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create_ironworks"
+      ]
+    }
+  ],
+  "type": "orehammer_recreated:crushing",
+  "ingredients": [
+    "create_ironworks:tin_ore"
+  ],
+  "result": "orehammer_recreated:raw_tin_dust",
+  "count": 3
+}

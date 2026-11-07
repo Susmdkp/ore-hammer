@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": "orehammer_recreated:raw_gold_dust",
+  "result": {
+    "id": "minecraft:gold_ingot"
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}

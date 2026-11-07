@@ -1,0 +1,8 @@
+{
+  "type": "orehammer_recreated:crushing",
+  "ingredients": [
+    "minecraft:copper_ore"
+  ],
+  "result": "orehammer_recreated:raw_copper_dust",
+  "count": 3
+}

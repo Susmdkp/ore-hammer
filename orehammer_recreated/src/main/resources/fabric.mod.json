@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "orehammer_recreated",
+  "version": "${version}",
+  "name": "Ore Hammer Recreated",
+  "description": "Vanilla+ ore crushing with a Crushing Hammer and raw ore dusts (independent recreation, for personal testing).",
+  "authors": [
+    "orehammer_recreated contributors"
+  ],
+  "license": "MIT",
+  "icon": "assets/orehammer_recreated/textures/item/crushing_hammer.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.orehammer.recreated.OreHammerRecreated"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "mixins": [
+    "orehammer_recreated.mixins.json"
+  ]
+}

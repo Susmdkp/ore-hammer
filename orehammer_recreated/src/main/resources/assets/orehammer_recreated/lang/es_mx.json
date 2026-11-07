@@ -1,0 +1,13 @@
+{
+  "item.orehammer_recreated.crushing_hammer": "Martillo triturador",
+  "itemGroup.orehammer_recreated": "Ore Hammer Recreated",
+  "item.orehammer_recreated.raw_iron_dust": "Polvo de hierro en bruto",
+  "item.orehammer_recreated.raw_gold_dust": "Polvo de oro en bruto",
+  "item.orehammer_recreated.raw_copper_dust": "Polvo de cobre en bruto",
+  "item.orehammer_recreated.raw_silver_dust": "Polvo de plata en bruto",
+  "item.orehammer_recreated.raw_zinc_dust": "Polvo de zinc en bruto",
+  "item.orehammer_recreated.raw_tin_dust": "Polvo de estaño en bruto",
+  "item.orehammer_recreated.crushing_hammer.tooltip1": "Aumenta el rendimiento de los recursos al fabricar.",
+  "item.orehammer_recreated.crushing_hammer.tooltip2": "Sirve con: bloques de mineral y minerales en bruto.",
+  "item.orehammer_recreated.crushing_hammer.tooltip3": "No le afectan los encantamientos."
+}

@@ -1,0 +1,13 @@
+{
+  "item.orehammer_recreated.crushing_hammer": "Crushing Hammer",
+  "itemGroup.orehammer_recreated": "Ore Hammer Recreated",
+  "item.orehammer_recreated.raw_iron_dust": "Raw Iron Dust",
+  "item.orehammer_recreated.raw_gold_dust": "Raw Gold Dust",
+  "item.orehammer_recreated.raw_copper_dust": "Raw Copper Dust",
+  "item.orehammer_recreated.raw_silver_dust": "Raw Silver Dust",
+  "item.orehammer_recreated.raw_zinc_dust": "Raw Zinc Dust",
+  "item.orehammer_recreated.raw_tin_dust": "Raw Tin Dust",
+  "item.orehammer_recreated.crushing_hammer.tooltip1": "Increases resource yield when used in crafting.",
+  "item.orehammer_recreated.crushing_hammer.tooltip2": "Works on: ore blocks and raw ores.",
+  "item.orehammer_recreated.crushing_hammer.tooltip3": "Not affected by enchantments."
+}

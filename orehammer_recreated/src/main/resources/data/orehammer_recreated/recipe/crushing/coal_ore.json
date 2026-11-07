@@ -1,0 +1,8 @@
+{
+  "type": "orehammer_recreated:crushing",
+  "ingredients": [
+    "minecraft:coal_ore"
+  ],
+  "result": "minecraft:coal",
+  "count": 2
+}

@@ -1,0 +1,8 @@
+{
+  "type": "orehammer_recreated:crushing",
+  "ingredients": [
+    "minecraft:lapis_ore"
+  ],
+  "result": "minecraft:lapis_lazuli",
+  "count": 11
+}
