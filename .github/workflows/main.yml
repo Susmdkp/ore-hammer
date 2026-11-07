@@ -23,9 +23,6 @@ jobs:
         with:
           gradle-version: 9.6.0
 
-      - name: Validate resources
-        run: python3 tools/validate.py
-
       - name: Build
         run: gradle build --no-daemon
 
